@@ -79,7 +79,7 @@ namespace lab3
             printMatrix(B, "Matrix B");
 
             matrixMull();
-            matrixMulTwo();
+            singleAssigment();
             localRecursive(0, 0, 0);
 
             string title = "Local recursive algorithm\nNumber of operations: " + m_counter.ToString();
@@ -150,7 +150,7 @@ namespace lab3
         }
     
         // single variable assign
-        static void matrixMulTwo()
+        static void singleAssigment()
         {
             int counter = 0;
             int size = A.GetLength(0);
