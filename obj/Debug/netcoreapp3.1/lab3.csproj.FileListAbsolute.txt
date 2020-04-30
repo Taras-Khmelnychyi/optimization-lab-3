@@ -1,0 +1,11 @@
+C:\Users\taras\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\Users\taras\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Users\taras\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\Users\taras\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+C:\Users\taras\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\Users\taras\source\repos\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\taras\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+C:\Users\taras\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\Users\taras\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\Users\taras\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\Users\taras\source\repos\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
